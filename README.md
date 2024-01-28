@@ -1,6 +1,6 @@
 # playground-go
 
-## Installtion
+## Installation
 ```console
 foo@bar:~$ go mod init example/[name]
 foo@bar:~$ go get -u github.com/davecgh/go-spew/spew //example get packages
