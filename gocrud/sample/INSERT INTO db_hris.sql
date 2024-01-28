@@ -1,0 +1,3 @@
+INSERT INTO db_hris.employees
+(id, firstname, lastname, contact_no, official_email, personal_email, identity_no, date_of_birth, gender, emergency_contact_relationship, emergency_contact, emergency_contact_address, password, current_address, permanent_address, city, designation, `type`, status, employment_status, picture, joining_date, exit_date, gross_salary, bonus, branch_id, department_id, remember_token, deleted_at, created_at, updated_at)
+VALUES(3, 'Rii', 'Amri', '082133430481', 'riiamri232@gmail.com', 'riiamri232@gmail.com', '123', '1997-07-23', '1', 'test', '082133430481', '082133430481', 'password', 'test', 'est', 'test', NULL, 'office', 1, '1', 'a', '2023-07-07', '2023-07-07', 1000000, 0, '0', NULL, NULL, NULL, '2023-12-25 00:00:00', '2023-12-25 00:00:00');
